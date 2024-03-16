@@ -17,8 +17,8 @@ const Footer = () => {
           <Link to='education' smooth={true} offset={-50} duration={500} className='footerNavItem' >Education</Link>
         </div>
         <div className='footerSocial'>
-          <a href={Bio.linkedin} className='footerSocialIcons'><IoLogoLinkedin /> LinkedIn</a>
-          <a href={Bio.github} className='footerSocialIcons'><IoLogoGithub /> Github</a>
+          <a href={Bio.linkedin} className='footerSocialIcons' target='_blank'><IoLogoLinkedin /> LinkedIn</a>
+          <a href={Bio.github} className='footerSocialIcons' target='_blank'><IoLogoGithub /> Github</a>
         </div>
         <div className='footerCopyright'>
           Copyright &#169; 2024 | {Bio.name} | All rights received.
