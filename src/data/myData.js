@@ -196,7 +196,7 @@ export const Bio = {
       title: "Movie Booking Application",
       date: "Feb 2024 - Mar 2024",
       description:
-        "Developed a movie booking application. Divided into three parts, it allowed users to select movies, handled the backstage tasks, and stored booking details. Users could easily choose movies, showtimes, and seats, and view past bookings. I utilized basic tools like MongoDB, Express.js, and React.js for smooth functionality. This project demonstrated my ability to create user-friendly applications, manage data effectively, and ensure a seamless user experience.PG Finder is a website that provides users with a seamless experience of finding their ideal PG accommodation. With its user-friendly interface, filtering options, and PG Finder makes the process of finding a PG accommodation quick and hassle-free.",
+        "Developed a movie booking application. Divided into three parts, it allowed users to select movies, handled the backstage tasks, and stored booking details. Users could easily choose movies, showtimes, and seats, and view past bookings. I utilized basic tools like MongoDB, Express.js, and React.js for smooth functionality. This project demonstrated my ability to create user-friendly applications, manage data effectively, and ensure a seamless user experience.",
       image: "https://res.cloudinary.com/dhrowl3tf/image/upload/v1710588525/backend_img_h9zxdl.jpg",
       tags: [
         "Javascript",
