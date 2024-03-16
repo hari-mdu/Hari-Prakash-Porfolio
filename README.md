@@ -18,7 +18,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```
-   git clone 
+   git clone https://github.com/hari-mdu/Hari-Prakash-Porfolio.git
    ```
 
 2. **Install Dependencies:**
